@@ -1,0 +1,19 @@
+{
+  "name": "pi-timestamp-prepender",
+  "version": "1.0.0",
+  "description": "Prepends YYYY-MM-DD - HH:mm to every user prompt",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "pi-agent"
+  ],
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "author": "alephtex",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alephtex/pi-timestamp-prepender"
+  }
+}
