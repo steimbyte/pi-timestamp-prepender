@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # pi-timestamp-prepender
 
 A [pi](https://github.com/badlogic/pi-mono) extension that automatically prepends the current date and time to every user prompt.
